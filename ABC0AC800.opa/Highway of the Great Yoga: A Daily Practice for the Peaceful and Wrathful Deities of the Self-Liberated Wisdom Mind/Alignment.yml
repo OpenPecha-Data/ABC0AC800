@@ -1,0 +1,25 @@
+segment_sources:
+  P225C1227:
+    type: origin_type
+    relation: translation
+    language: en
+  P66622622:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2bc1144f0a404039a3e3cb4fecd2a048:
+    P225C1227: fc641ae9d4f7440a92590559c2469d2d
+    P66622622: b905b2d1521f4ab8bb68f570ac93eb6d
+  08ca05632d4b4d9280363a4facc1f60f:
+    P225C1227: 35fd733f393a42a1869820c85ead9f29
+    P66622622: 474fcc4f29034c2789a9e2f87ff57f64
+  ef2b8d638db34d50bae4a43bb6e95eae:
+    P225C1227: 5940a50edadd483eb82e4e98b989c751
+    P66622622: 6b55b6c2371044a2b74fd658a3662da2
+  4018baaf34e244109e50c4f0a9952c82:
+    P225C1227: 9064171555cd416e80937841b9b510a8
+    P66622622: 4070eef15a8b4f9ca1e51d2deb915f49
+  2b6ad98f3b184d04a9b563a10f72178a:
+    P225C1227: cf5bfa010f884342b9446c5b467ee5b5
+    P66622622: 56c344d1e42e43e4ae0b6b3ccf04b690
